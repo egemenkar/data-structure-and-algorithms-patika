@@ -1,11 +1,15 @@
-## [22,27,16,2,18,6] -> Insertion Sort
+# Project 1
+
+Insertion Sort
+
+[22,27,16,2,18,6]
 
 1. Write the stages of the above sequence according to the sort type.
 
-Stage 1 => [16,22,27,2,18,6]
-Stage 2 => [2,16,22,27,18,6]
-Stage 3 => [2,16,18,22,27,6]
-Stage 4 => [2,6,16,18,27,22]
+Stage 1 -> [16,22,27,2,18,6]
+Stage 2 -> [2,16,22,27,18,6]
+Stage 3 -> [2,16,18,22,27,6]
+Stage 4 -> [2,6,16,18,27,22]
 
 2. Write the Big-O notation.
 
@@ -23,10 +27,10 @@ Average case
 
 
 
-## Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.
+Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.
 
-Step 1 => [3,7,5,8,2,9,4,15,6]
-Step 2 => [3,5,7,8,2,9,4,15,6]
-Step 3 => [2,3,5,7,8,9,4,15,6]
-Step 4 => [2,3,4,5,7,8,9,15,6]
+Step 1 -> [3,7,5,8,2,9,4,15,6]
+Step 2 -> [3,5,7,8,2,9,4,15,6]
+Step 3 -> [2,3,5,7,8,9,4,15,6]
+Step 4 -> [2,3,4,5,7,8,9,15,6]
 
